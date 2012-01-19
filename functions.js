@@ -1,7 +1,7 @@
 var letter;
 
 while (!letter) {
-	letter = prompt('What is your favourite letter?');
+	letter = prompt( 'Please type in a letter of your choice.');
 }
 
 var writeLetterMultipleTimes = function () {
